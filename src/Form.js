@@ -125,7 +125,7 @@ export default class Form extends Component{
                                          <label htmlFor="FirstName" className="email">Email Address <span className="asterik">*</span></label>
                                             <div className="input-group" id="erroralert2">
                                                  <span className="input-group-addon"> <i className="fa fa-envelope"> </i> </span>
-                                                     <input  type="text" className="form-control"placeholder="mail" name="mail" 
+                                                     <input  type="text" className="form-control"placeholder="" name="mail" 
                                                   defaultValue = {this.state.mail}
                                                   onChange    = {this.handleChange.bind(this)}
                                              ></input>
