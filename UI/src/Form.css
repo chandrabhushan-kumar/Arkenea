@@ -1,0 +1,48 @@
+.formwrap1{
+    height: 550px;
+    background-color: #fff;
+    margin-top: 100px;
+    box-shadow: 2px 2px 30px 2px #dad6d6;
+  }
+.fname,.email{
+    font-size: 19px;
+    color: #555555; 
+     margin-top: 50px; 
+    margin-left: -617px;
+}
+.email{
+    font-size: 19px;
+    color: #555555; 
+     margin-top: 50px; 
+    margin-left: -537px;
+}
+.message {
+    font-size: 19px;
+    color: #555555;
+    margin-top: 50px;
+    margin-left: -587px;
+}
+.asterik{
+    color: red;
+}
+.input-group,.form-control{
+    height: 42px;
+}
+.form-group {
+     margin-bottom: -16px!important; 
+}
+  .subButton{
+     font-size: 25px; 
+    margin-top: 67px;
+    cursor: pointer;
+
+}  
+.error{
+    position: unset;
+    color:red;
+    padding-top: 5px; 
+}
+.wrap1{
+    height: 100px;
+  
+}

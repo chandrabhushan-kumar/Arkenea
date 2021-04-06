@@ -1,0 +1,16 @@
+.Studentlist{
+    height: auto;
+    background-color: #fefefe;
+    box-shadow: 2px 2px 2px 2px #aaa ;
+    margin-top: 100px;
+}
+
+.slist{
+   font-size: 30px;
+    border-bottom: 1px solid #aaa;
+    padding-bottom: 10px !important; 
+    text-align: center;
+}
+.table{
+    margin-top: 30px;
+}
